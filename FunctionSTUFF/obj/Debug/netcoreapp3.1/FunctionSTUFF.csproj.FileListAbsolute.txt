@@ -1,0 +1,13 @@
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.exe
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.deps.json
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.runtimeconfig.json
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.runtimeconfig.dev.json
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.dll
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\bin\Debug\netcoreapp3.1\FunctionSTUFF.pdb
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.csprojAssemblyReference.cache
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.AssemblyInfoInputs.cache
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.AssemblyInfo.cs
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.csproj.CoreCompileInputs.cache
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.dll
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.pdb
+C:\Users\Saif\Desktop\FunctionSTUFF\FunctionSTUFF\obj\Debug\netcoreapp3.1\FunctionSTUFF.genruntimeconfig.cache
